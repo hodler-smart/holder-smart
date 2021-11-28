@@ -1,5 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm a Senior Full-Stack Developer<br>who LOVES KEEPING IN TOUCH WITH COLLEAGUES at anytime.</h1>
-<h2 align="center">A passionate & creative WEB & APP developer</h2>
+<h1 align="center">💻Senior React/Angular with Node.js/Asp.NET, Blockchain Dev💻<br>who LOVES KEEPING IN TOUCH WITH COLLEAGUES at anytime.</h1>
 <p align="center"><img align="center" style="width:96%" src="https://user-images.githubusercontent.com/83287410/133731686-98198b3c-531d-4c17-9768-9f668bb198f6.jpg?raw=true" style = "width: -webkit-fill-available;"/></p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20web%20and%20app%20developer;9+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
