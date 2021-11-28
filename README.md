@@ -12,7 +12,8 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
-I specialize in 🥇Frontend Web Engineer & Mobile Hybrid Engineer🥇 using ⚛️React⚛️. Currently, I am open to any opportunity, especially in IT as a Web Developer and Mobile Developer. I also make plugin for open source, you can check on npm package and composer package with prefix @aacassandra. I hope it will be of use to many people.
+I don't want to explain as much. If you want to know about me, you should see my reviews.
+Most importantly, I am available ★24/7★, work in your ★time zone★ and will not stop working until you are ★100% satisfied★ with my work.
 
 
 <h3 align="left">Languages and Tools:</h3>
