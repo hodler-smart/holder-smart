@@ -1,6 +1,6 @@
 <h1 align="center">Top talent in Blockchain, React & Node.js<br><br></h1>
 <p align="center">
- <a href="https://app.daily.dev/devalpha18"><img src="https://github.com/devalpha18/devalpha18/devcard.svg" width="400" alt="alpha's Dev Card"/></a>
+ <a href="https://app.daily.dev/devalpha18"><img src="https://github.com/devalpha18/devalpha18/blob/master/devcard.svg" width="400" alt="alpha's Dev Card"/></a>
 </br>
 <p align="center">
  💎 💎 💎 </br>
