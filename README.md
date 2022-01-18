@@ -1,9 +1,9 @@
-<h1 align="center">💻Senior React/Angular with Node.js/Asp.NET, Blockchain Dev💻<br><br></h1>
-<p align="center"><img align="center" style="width:96%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" style = "width: -webkit-fill-available;"/></p>
+<h1 align="center">Top talent in Blockchain, React & Node.js<br><br></h1>
+<p align="center">
+ <a href="https://app.daily.dev/devalpha18"><img src="https://api.daily.dev/devcards/7fd019124c7b464d92541356e11da445.png?r=vpb" width="400" alt="alpha's Dev Card"/></a>
 
 <p align="center">
  💎 💎 💎 </br>
- Let's coding every day, Learn every time.<br>
  Let's go beyond our limits<br>
 </p>
 
