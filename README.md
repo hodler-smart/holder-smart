@@ -1,10 +1,10 @@
 <h1 align="center">Top talent in Blockchain, React & Node.js<br><br></h1>
 <p align="center">
  <a href="https://app.daily.dev/devalpha18"><img src="https://api.daily.dev/devcards/7fd019124c7b464d92541356e11da445.png?r=vpb" width="400" alt="alpha's Dev Card"/></a>
-
+</br>
 <p align="center">
  💎 💎 💎 </br>
- Let's go beyond our limits<br>
+ Let's learn and grow my skills from a technical standpoint!!! <br>
 </p>
 
 
