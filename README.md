@@ -9,8 +9,13 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
-I don't want to explain as much. If you want to know about me, you should see my reviews.
-Most importantly, I am available ★24/7★, work in your ★time zone★ and will not stop working until you are ★100% satisfied★ with my work.
+</br>High Quality + Fast Speed = Excellent Result and Business Success</br></br>
+
+My goal is to exceed my customer’s expectations in the form of value, quality, and complete customer satisfaction.
+I carefully analyze my customer's needs and objectives and deliver them a worthy solution.
+As a full-service provider of Web & Blockchain development and IT solutions, I see my customer's project through from beginning to end, design, development, project management, quality assurance, E-commerce solution.
+Also, I love to create great designs with you.
+I welcome discussing your projects and help you find success!
 
 
 <h3 align="left">Languages and Tools:</h3>
