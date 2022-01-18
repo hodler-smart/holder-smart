@@ -4,7 +4,7 @@
 </br>
 <p align="center">
  💎 💎 💎 </br>
- Let's learn and grow my skills from a technical standpoint!!! <br>
+ Let's learn and grow my skills from a technical standpoint! <br>
 </p>
 
 
