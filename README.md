@@ -1,4 +1,4 @@
-<h1 align="center">Top 🚀talent in Blockchain, Crypto, DeFi & Fintech<br><br></h1>
+<h1 align="center">Top Full-Stack 🚀talent in Blockchain & Web<br><br></h1>
 <p align="center">
  <a href="https://app.daily.dev/devalpha18"><img src="https://github.com/devalpha18/devalpha18/blob/main/devcard.svg" width="400" alt="alpha's Dev Card"/></a>
 </br>
