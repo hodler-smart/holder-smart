@@ -1,6 +1,6 @@
 <h1 align="center">Top Full-Stack 🚀Talent in Blockchain & Web<br><br></h1>
 <p align="center">
- <a href="https://app.daily.dev/devalpha18"><img src="https://github.com/devalpha18/devalpha18/blob/main/devcard.svg" width="400" alt="alpha's Dev Card"/></a>
+ <a href="https://app.daily.dev/devalpha18"><img src="https://api.daily.dev/devcards/7fd019124c7b464d92541356e11da445.png?r=2h4" width="400" alt="alpha's Dev Card"/></a>
 </br>
 <p align="center">
  💎 💎 💎 </br>
