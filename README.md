@@ -1,4 +1,5 @@
 <h1 align="center">Top Full-Stack 🚀Talent in Blockchain & Web<br><br></h1>
+<p align="center">
 <a href="https://app.daily.dev/alphadev104"><img src="https://api.daily.dev/devcards/81b3e69ce0314601ac953ccf08636091.png?r=nlb" width="400" alt="Alpha Dev's Dev Card"/></a>
 </br>
 <p align="center">
