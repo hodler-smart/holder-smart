@@ -1,15 +1,7 @@
 <h1 align="center">Top Full-Stack 🚀Talent in Blockchain & Web<br><br></h1>
-<p align="center">
-<a href="https://app.daily.dev/alphadev102"><img src="https://api.daily.dev/devcards/81b3e69ce0314601ac953ccf08636091.png?r=pwh" width="400" alt="Alpha Dev's Dev Card"/></a>
-</br>
-<p align="center">
- 💎 💎 💎 </br>
- Let's learn and grow my skills from a technical standpoint ! <br>
-</p>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
-</br>High Quality + Fast Speed = Excellent Result and Business Success</br></br>
+</br>High Quality + Fast Speed = Excellent Result and Business Success</br>
 
 My goal is to exceed my customer’s expectations in the form of value, quality, and complete customer satisfaction.
 I carefully analyze my customer's needs and objectives and deliver them a worthy solution.
