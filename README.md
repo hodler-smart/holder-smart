@@ -21,4 +21,4 @@ I welcome discussing your projects and help you find success!
 **Connect with me:**
 - 💬 Telegram : [@alphadev102](https://t.me/alphadev102)
 
-<p align="center"><img align="left" style="width: 42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphadev102&show_icons=true&locale=en&layout=compact" alt="saint-prince" /><img align="right" style="width: 52%" src="https://github-readme-stats.vercel.app/api?username=alphadev102&show_icons=true&locale=en" alt=alphadev102" /></p>
+⭐️ From [Alpha](https://github.com/alphadev102)
