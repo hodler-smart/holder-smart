@@ -2,8 +2,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain,%20Backend%20and%20AI;4+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphadev102&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
-<p align="center"><a href="https://app.daily.dev/alphadev102"><img src="https://api.daily.dev/devcards/81b3e69ce0314601ac953ccf08636091.png?r=kmf" width="400" alt="Alpha Dev's Dev Card"></a></p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphadev102&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
+<p align="center"><a href="https://app.daily.dev/alphadev102"><img src="https://api.daily.dev/devcards/81b3e69ce0314601ac953ccf08636091.png?r=kmf" width="400" alt="Alpha Dev's Dev Card"></a></p> -->
 </br>High Quality + Fast Speed = Excellent Result and Business Success</br>
 
 My goal is to exceed my customer’s expectations in the form of value, quality, and complete customer satisfaction.
