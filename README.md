@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain,%20Backend%20and%20AI;4+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain,%20Backend%20and%20AI;5+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p> 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alphadev102&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
@@ -13,7 +13,7 @@ I welcome discussing your projects and help you find success!
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in blockchain, AI and Web.
+- 👨🏽‍💻 I’m currently working in Blockchain, AI and Web.
 - 🌱 I’m currently learning Edge Computing
 - 📫 Ask me about anything, I am happy to help
 
