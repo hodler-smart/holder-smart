@@ -17,4 +17,4 @@ I welcome discussing your projects and help you find success!
 - 🌱 I’m currently learning Edge Computing
 - 📫 Ask me about anything, I am happy to help
 
-⭐️ From [Alpha](https://github.com/gurujustin)
+⭐️ From [GuruJustin](https://github.com/gurujustin)
