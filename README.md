@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Blockchain,%20Backend%20and%20AI;8+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p> 
-
+https://api.daily.dev/devcards/8e387b723603466d87c42d4dba637825.png?r=apm
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurujustin&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
 <p align="center"><a href="https://app.daily.dev/gurujustin"><img src="https://api.daily.dev/devcards/81b3e69ce0314601ac953ccf08636091.png?r=kmf" width="400" alt="Alpha Dev's Dev Card"></a></p> -->
 
