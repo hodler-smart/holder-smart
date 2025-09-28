@@ -15,6 +15,5 @@ I welcome discussing your projects and help you find success!
 - 👨🏽‍💻 I’m currently working in Blockchain, AI and Web.
 - 🌱 I’m currently learning AI.
 - 📫 Ask me about anything, I am happy to help.
-- 😍 My Past Works: [My Projects](https://github.com/gurujustin/myworks)
 
-⭐️ From [GuruJustin](https://github.com/gurujustin)
+⭐️ From [GuruJustin](https://github.com/hodler-smart)
